@@ -29,6 +29,7 @@ form.addEventListener('submit', async(e) => {
         videonameInput.value = null
         fileName.textContent = 'Videod loaded'
     }
+
 })
 
 function getTime() {
